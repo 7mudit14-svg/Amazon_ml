@@ -1,0 +1,17 @@
+﻿# Dataset folder (stored on Hugging Face)
+student_resource/dataset/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Model checkpoints / archives
+*.pt
+*.pth
+*.bin
+*.h5
+*.zip
+*.tar.gz
