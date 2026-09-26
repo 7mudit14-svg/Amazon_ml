@@ -1,0 +1,160 @@
+[30085/425928 US src2 p=0.412 pown=0.21 ntrue=4 npred=2 tp=2]
+   S: 'Silver Automation Union' | '25227 Spring Iris Lane, Katy, TX'
+   T: 'The Silver Automation Union' | ''
+   p1=0.159 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.17 rank=4 dup=0 tn=1.79 nwnew=0
+[136879/432120 India src2 p=0.726 pown=0.613 ntrue=6 npred=5 tp=5]
+   S: 'Inspire & Sons Private Limited' | '12, Gayatri Vihar, Dewas, Madhya Pradesh'
+   T: 'lnspire Sons Private Limited Service' | '#12, GAYATRI VIHAR, DEWAS, Madhya Pradesh'
+   p1=0.346 tset=0.69 ratio=0.69 atset=1.00 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=6 dup=0 tn=1.39 nwnew=2
+[40799/509883 India src2 p=0.828 pown=0.743 ntrue=4 npred=4 tp=3]
+   S: 'Marshall Durga Private Limited' | 'Mamta Devi, Ward No.04, Dudhpura Near Chaiti Durga, Samastipur, Bihar'
+   T: 'Marshall Durga' | 'HN 326 MAMTA DEVI, WARD NO.04, DUDHPURA NEAR CHAITI DURGA, SAMASTIPUR, Bihar'
+   p1=0.853 tset=1.00 ratio=1.00 atset=1.00 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=5 dup=0 tn=0.69 nwnew=0
+[16424/589754 US src2 p=0.806 pown=0.714 ntrue=5 npred=4 tp=4]
+   S: 'Nevada Womens Health Partners PLLC' | '14528 546, Nevada, TX'
+   T: 'NEVADA W0MENS HEALTH' | '546, NEVADA, TX'
+   p1=0.253 tset=1.00 ratio=0.82 atset=1.00 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.69 rank=5 dup=0 tn=1.95 nwnew=0
+[63071/917052 India src2 p=0.084 pown=0.038 ntrue=6 npred=4 tp=4]
+   S: 'Great Foundation' | 'Shopno2 Raghvendra Avenue, Padmanagar New Pacha Peth, Solapur North, Solapur, Maharashtra'
+   T: 'Smt Great Foundation Corporation' | ''
+   p1=0.013 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.01 rank=7 dup=0 tn=4.17 nwnew=0
+[147518/922623 US src2 p=0.05 pown=0.022 ntrue=6 npred=3 tp=3]
+   S: 'Maid Bakery! Inc' | 'IA, Des Moines, 1840 Martin Luther King Jr Parkway'
+   T: 'The Maid Bakery!  Inc' | ''
+   p1=0.039 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.06 rank=6 dup=0 tn=4.22 nwnew=0
+[15590/988937 India src2 p=0.535 pown=0.409 ntrue=4 npred=1 tp=1]
+   S: '<CITY_NAME> Homes Private Limited' | 'Ausa Road, Tq. Latur, Latur, Maharashtra'
+   T: '<CITY_NAME> Homes Private' | 'NO 827 AUSA ROAD, TQ. LATUR, Maharashtra'
+   p1=0.844 tset=1.00 ratio=1.00 atset=1.00 nm=0 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=3 dup=0 tn=2.08 nwnew=0
+[25968/2165926 India src2 p=0.618 pown=0.408 ntrue=5 npred=4 tp=4]
+   S: 'YU Trading Limited' | 'Rz-9C, Puran Nagar, Palam Colony, New Delhi, Delhi, South West Delhi, Delhi'
+   T: 'YU Trading Ltd Ltd' | ''
+   p1=0.651 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.49 rank=5 dup=0 tn=3.64 nwnew=0
+[49927/2641716 US src2 p=0.368 pown=0.135 ntrue=8 npred=5 tp=5]
+   S: 'F 2 S Idea' | '148 Donna Kay Drive, Greenbrier, AR'
+   T: 'F 2 S Ídea' | ''
+   p1=0.337 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.49 rank=8 dup=0 tn=1.39 nwnew=0
+[469/3208306 India src2 p=0.72 pown=0.604 ntrue=3 npred=2 tp=2]
+   S: 'Gitanjali Realestate Private Limited' | 'Khasra No 950, 950 Me And 951, Village Kilhora Jalalabad Hapur, Hapur, Ghaziabad, Uttar Pradesh'
+   T: 'PRIVATEREALESTATE.COM #85158' | '950., GHAZIABAD, NEW DELHI, Uttar Pradesh'
+   p1=0.828 tset=0.00 ratio=0.00 atset=0.82 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=1 legc=0 cmax=0.14 rank=1 dup=0 tn=2.30 nwnew=0
+[28340/3390524 India src2 p=0.636 pown=0.51 ntrue=5 npred=4 tp=4]
+   S: 'Visakhapatnam Indiaprivate Pvt Ltd' | '6-55-70/4, Golla Veedhi, Tagarapuvalasa, Bheemili, Visakhapatnam, Visakhapatnam, Vishakhapatnam, Andhra Pradesh'
+   T: 'ivisakhapatnam.com' | '6-55-70/4, VISAKHAPATNAM, VISHAKHAPATNAM, Andhra Pradesh'
+   p1=0.984 tset=0.00 ratio=0.00 atset=1.00 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=1 legc=0 cmax=0.94 rank=3 dup=0 tn=4.39 nwnew=0
+[143760/3812008 US src2 p=0.199 pown=0.112 ntrue=5 npred=3 tp=3]
+   S: 'Bius Inc.' | '5940 2625, Roy City, UT'
+   T: 'Bius Inc' | ''
+   p1=0.185 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.28 rank=5 dup=0 tn=3.50 nwnew=0
+[81011/4028526 US src2 p=0.167 pown=0.021 ntrue=4 npred=3 tp=3]
+   S: 'Gulf Center' | '9354 Chirping Road, Hixson, TN'
+   T: 'YUMAVIO' | 'HIXSON, TN, 9354  CHIRPING RD'
+   p1=0.270 tset=0.11 ratio=0.11 atset=1.00 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.76 rank=4 dup=0 tn=2.08 nwnew=1
+[98929/4132917 India src2 p=0.034 pown=0.014 ntrue=5 npred=4 tp=4]
+   S: 'Bright Marketing' | 'C/103, Radhe Residency, Nr. Manisha Garnala, Kosad - Utran Road, Utran, Surat, Gujarat'
+   T: 'Dr BRIGHT MÁRKETING' | ''
+   p1=0.015 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.02 rank=9 dup=0 tn=3.95 nwnew=0
+[89779/4366706 US src2 p=0.018 pown=0.007 ntrue=7 npred=4 tp=4]
+   S: 'Urban Hair Studio' | '2426 Water Street, Unit S4, Decatur, IL'
+   T: 'Urban  Hair Studio & Co' | ''
+   p1=0.010 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.02 rank=12 dup=0 tn=4.49 nwnew=0
+[96377/5532473 US src3 p=0.237 pown=0.157 ntrue=5 npred=3 tp=3]
+   S: 'Rois Hamm, D.C., M.D., P.C. LP' | '7881 Lita Corte, Rancho Cucamonga, CA'
+   T: 'Rois Hamm, D.C., M.D., P.C. LLC' | '7895 Lta Corte, Rancho Cucamonga, California'
+   p1=0.362 tset=1.00 ratio=1.00 atset=0.87 nm=0 nc=1 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=5 dup=0 tn=2.56 nwnew=0
+[142892/5540733 US src3 p=0.382 pown=0.189 ntrue=4 npred=3 tp=3]
+   S: 'Wells Frontier Open LLC' | '1200 Broadway, Unit 2214, Nashville, TN'
+   T: 'wells frontier open llc' | ''
+   p1=0.418 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.52 rank=6 dup=0 tn=3.09 nwnew=0
+[110314/5615946 US src3 p=0.789 pown=0.679 ntrue=4 npred=3 tp=3]
+   S: 'Crow Stores Inc.' | '10614 Maritca Drive, Albuquerque, NM'
+   T: 'Crow Stores (Inc.)' | ''
+   p1=0.610 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.30 rank=4 dup=0 tn=4.22 nwnew=0
+[120156/6125303 US src3 p=0.003 pown=0.001 ntrue=5 npred=4 tp=4]
+   S: 'Patriot Pediatrics LLC' | '656 Firestone Avenue, Salem, OR'
+   T: 'Patriot  Pediatrics & Co' | ''
+   p1=0.002 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=1 cmax=0.05 rank=6 dup=0 tn=3.09 nwnew=0
+[72802/6174075 India src3 p=0.019 pown=0.007 ntrue=4 npred=3 tp=3]
+   S: 'Aditya Consulting Private Limited' | 'H No-20 A, 4Th/F Okhla Village, New Delhi, South Delhi, Delhi'
+   T: 'Aditya Consulting Prívate Limited' | ''
+   p1=0.020 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.02 rank=9 dup=0 tn=4.01 nwnew=0
+[37442/6436112 India src3 p=0.704 pown=0.505 ntrue=2 npred=1 tp=1]
+   S: 'DYV Construction Private Limited' | '11/20-4, Thoppukadu, Ekkatampalayam Saanarpalayam Po, Chennimalai, Erode, Tamil Nadu'
+   T: 'DYV Cónstruction Private Limited' | ''
+   p1=0.620 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.46 rank=2 dup=0 tn=1.79 nwnew=0
+[95010/6524044 US src3 p=0.306 pown=0.134 ntrue=6 npred=4 tp=4]
+   S: 'Empire Secure Research' | 'CA, 8206 Primoak Way, Elk Grove'
+   T: 'Empire Research Secure' | ''
+   p1=0.250 tset=1.00 ratio=0.68 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.48 rank=6 dup=0 tn=1.39 nwnew=0
+[105004/6580580 India src3 p=0.804 pown=0.637 ntrue=6 npred=5 tp=5]
+   S: 'Om Impex Private Limited' | 'Geras Skyvillas Bldg No 05 Fl-V-G-Ii S.No 64 Kharadi, Pune, Maharashtra'
+   T: 'ॐ Impex प्राइवेट लिमिटेड' | 'Hn 988 Geras Skyvillas Bldg No 05 Fl-v-g-ii S.no 64 Kharadi, Pune, MH'
+   p1=0.619 tset=0.77 ratio=0.38 atset=0.91 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=1 dom=0 legc=0 cmax=0.26 rank=6 dup=0 tn=2.30 nwnew=3
+[79592/6676887 US src3 p=0.636 pown=0.374 ntrue=4 npred=3 tp=3]
+   S: 'Foot & Ankle Premier Care LLC' | '442 Hill Road, Smithville, TX'
+   T: 'Foot & Ankle Premier Care Llc' | ''
+   p1=0.472 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.58 rank=4 dup=0 tn=1.39 nwnew=0
+[48580/6698675 US src3 p=0.386 pown=0.218 ntrue=6 npred=5 tp=5]
+   S: 'Sitech Value Summit Inc.' | '130 Edgewood Place, Whitefish, MT'
+   T: 'sitech value summit inc.' | ''
+   p1=0.241 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.16 rank=6 dup=0 tn=3.61 nwnew=0
+[20994/6902337 US src3 p=0.508 pown=0.382 ntrue=4 npred=3 tp=3]
+   S: 'Kathe S. Clayton, P.A., PC' | '16 Morning Dove Drive, Westport, MA'
+   T: 'PC S. Cae, P.A., Kathe' | '16 Morning Dove Dr, Westport, Massachusetts'
+   p1=0.957 tset=0.83 ratio=0.44 atset=0.94 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=4 dup=0 tn=2.20 nwnew=1
+[134200/6903273 US src3 p=0.049 pown=0.03 ntrue=7 npred=6 tp=6]
+   S: 'West Usa' | '621 6th Avenue, Unit UNIT 5, Great Falls, MT'
+   T: 'Wb Usa' | '621 6rd Avenue, N/A, Great Falls, Montana'
+   p1=0.020 tset=0.71 ratio=0.71 atset=0.90 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=8 dup=0 tn=3.09 nwnew=1
+[109775/7058981 India src3 p=0.454 pown=0.234 ntrue=3 npred=1 tp=1]
+   S: 'First Public School' | '91 Springboard Business Hub Pvt Ltd, Gopalakrishna Complex, #45/3 Residency Road Mg Road, Bangalore North, Bangalore, Karnataka'
+   T: 'firstpublicschoolcom' | '##91 Springboard Business Hub Pvt Ltd, Bangalore North, Bangalore, KA'
+   p1=0.587 tset=0.69 ratio=0.69 atset=0.97 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.12 rank=3 dup=0 tn=3.85 nwnew=1
+[100360/7176671 India src3 p=0.603 pown=0.427 ntrue=3 npred=2 tp=2]
+   S: 'Indian Healthcare LLP' | 'A 301, Floor 3Rd, Plot 249, A, Neelam Centre Baburao Pendharkar Marg, Glaxo, Worli Co, Lony, Mumbai, Mumbai City, Maharashtra'
+   T: 'इंडियन हेल्थकेयर एलएलपी' | 'A 3-01, Mumbai, MH'
+   p1=0.213 tset=0.05 ratio=0.05 atset=0.80 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=1 dom=0 legc=0 cmax=0.80 rank=4 dup=0 tn=3.26 nwnew=3
+[85851/7437216 US src3 p=0.62 pown=0.495 ntrue=2 npred=1 tp=1]
+   S: 'Royal Hospitality Partners' | '225 Logan Street, Unit 24, Urbana, OH'
+   T: 'Royal Hospitality Partners Co' | '22 Logan Street, # 24, Urbana, Ohio'
+   p1=0.361 tset=1.00 ratio=1.00 atset=0.95 nm=1 nc=0 near=1 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=1 dup=1 tn=2.20 nwnew=0
+[111115/8190207 US src3 p=0.189 pown=0.107 ntrue=3 npred=2 tp=2]
+   S: 'Data Construction Enterprises' | '2634 Sundale Road, Massillon, OH'
+   T: 'Drexdrex' | 'Ohio, Sundale Road, NULL, Perry Twp'
+   p1=0.220 tset=0.22 ratio=0.27 atset=0.61 nm=0 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.06 rank=3 dup=0 tn=2.71 nwnew=1
+[93970/8401105 India src3 p=0.537 pown=0.41 ntrue=3 npred=2 tp=2]
+   S: 'Shelter Matrix Private Limited' | 'Madhopur, Bairiya Ward No-07, Madhopur, West Champaran, Bihar'
+   T: 'Shelter Matrix' | 'No. 90 Madhopr, Madhopur, West Champaran, बिहार'
+   p1=0.177 tset=1.00 ratio=1.00 atset=0.77 nm=0 nc=1 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=4 dup=0 tn=1.39 nwnew=0
+[533/8846285 India src3 p=0.726 pown=0.614 ntrue=3 npred=2 tp=2]
+   S: 'ZX Chit Private Limited' | '50/1112, D11 2Nd Floor, Muhammad Haji Building Station Junction, Edappally P.O, Kochi, Ernakulam, Kerala'
+   T: 'ZX Private Limited Services' | 'D11 2Nd Floor, Muhammad Haji Building Station Junction, Edappally P.o, Kochi, 0/1112, കേരളം, Kerlala'
+   p1=0.420 tset=0.44 ratio=0.44 atset=0.87 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=3 dup=0 tn=0.69 nwnew=1
+[11710/9019382 US src3 p=0.643 pown=0.49 ntrue=4 npred=3 tp=3]
+   S: 'Twisted Bakery' | '457 Kings Court, Akron, OH'
+   T: 'Onyxarc' | '457 Kings Ct, Copley Twp, Ohio'
+   p1=0.655 tset=0.19 ratio=0.19 atset=0.64 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.07 rank=4 dup=0 tn=1.39 nwnew=1
+[147947/9053144 India src3 p=0.57 pown=0.181 ntrue=5 npred=3 tp=3]
+   S: 'Delhi Impex Center' | 'A-6 Plot No- 2 Dharma Apartment Patparganj, I.P Extension, Delhi, East Delhi, Delhi'
+   T: 'centerimpex.com' | 'Delhi, DL, A-6 Plot No- 2 Dharma Apartment Patcarganj, I.p Extension, East Delhi'
+   p1=0.273 tset=0.00 ratio=0.00 atset=0.94 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=1 legc=0 cmax=0.22 rank=6 dup=0 tn=1.79 nwnew=0
+[19518/9143739 US src3 p=0.466 pown=0.344 ntrue=3 npred=0 tp=0]
+   S: 'Bright Lloyds, Inc' | '1046 E Lake Road, Montville, CT'
+   T: 'Bright Lloyds,' | '841 E Lake Rd, Oakdael, Connecticut'
+   p1=0.052 tset=1.00 ratio=1.00 atset=0.60 nm=0 nc=1 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=1 dup=0 tn=1.39 nwnew=0
+[59457/9265659 US src3 p=0.285 pown=0.193 ntrue=5 npred=4 tp=4]
+   S: 'Guerrero Hall' | '1407 Garden Glen Lane, Pearland, TX'
+   T: 'Guerrero Hall Co' | 'PMB 5730, Pearland, Texas, 1407 Garden Glen Lane'
+   p1=0.950 tset=1.00 ratio=1.00 atset=0.94 nm=1 nc=0 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.00 rank=5 dup=0 tn=2.08 nwnew=0
+[91849/9757179 India src3 p=0.041 pown=0.018 ntrue=3 npred=2 tp=2]
+   S: 'One Technology Limited' | '45E, 172/6, Hari Bhau Upadhyaya Nagar, Near Glitz Cinema, Ajmer, Rajasthan'
+   T: 'Sri One Technology Límited' | ''
+   p1=0.022 tset=1.00 ratio=1.00 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.03 rank=5 dup=0 tn=4.04 nwnew=0
+[25269/10103655 India src3 p=0.529 pown=0.376 ntrue=6 npred=5 tp=5]
+   S: 'Uppal Mandal Consultancy Limited' | 'Telangana, Rangareddy District, Uppal Mandal, P-11/5/2, Sy No:50, Road No:8 Ida Nacharam'
+   T: 'Uppal Mandal' | ''
+   p1=0.362 tset=1.00 ratio=0.67 atset=0.00 nm=0 nc=0 near=0 tbl=1 sbl=0 ind=0 dom=0 legc=0 cmax=0.06 rank=7 dup=0 tn=4.80 nwnew=0
+[118255/10319470 India src3 p=0.664 pown=0.541 ntrue=2 npred=1 tp=1]
+   S: 'Blue Finance' | 'House No.105, Ward No.3, Near Dav School, Punjab, Firozpur, Jalalabad'
+   T: 'Blue Finance' | 'House No.05, Mandi Amin Ganj,,punjab, Jalalabad, PB'
+   p1=0.260 tset=1.00 ratio=1.00 atset=0.63 nm=0 nc=1 near=0 tbl=0 sbl=0 ind=0 dom=0 legc=0 cmax=0.01 rank=2 dup=0 tn=1.79 nwnew=0

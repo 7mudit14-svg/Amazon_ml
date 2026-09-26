@@ -1,0 +1,120 @@
+[95881/7515 India src2 p=None pown=None ntrue=5 npred=1 tp=1]
+   S: 'One Logistics Private Limited' | 'Bengaluru, Bangalore, No. 1/1, Karnataka, 4Th Cross.(Old No, 1, 32Nd Cross), 7Th Block (W), Jayanagar'
+   T: 'ಒನ್ ಲಾಜಿಸ್ಟಿಕ್ಸ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್' | 'NO. B3/1/1, 4TH CROSS.(OLD NO, 1, 32ND CROSS), 7TH BLOCK (W), JAYANAGAR, BANGALORE, ಕರ್ನಾಟಕ'
+[113746/13192 US src2 p=None pown=None ntrue=6 npred=5 tp=4]
+   S: 'Gibson, Bobette, MD' | '2966 Shasta Drive, Fl 1, Medford, OR'
+   T: '*** GIBSON, BOMBCT,E MD' | '296 SHASTA DR, MEDFORD, OR'
+[96660/533366 India src2 p=None pown=None ntrue=5 npred=3 tp=3]
+   S: 'Sree Projects Private Limited' | '2Nd Floor, No.34, 1St Main, 1St Cross Koramangala 1St Block, Bangalore, Karnataka'
+   T: 'ಶ್ರೀ ಪ್ರಾಜೆಕ್ಟ್ಸ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್' | 'NO 2ND FLOOR, BANGALURU, BANGALORE, Karnataka'
+[104662/699029 India src2 p=None pown=None ntrue=3 npred=1 tp=1]
+   S: 'Great Consultancy Private Limited' | 'No.70, 5Th Cross, 5Th Main, N.R. Colony Bangalore - 19. 560 019., Bangalore, Karnataka'
+   T: 'ಗ್ರೇಟ್ ಕನ್ಸಲ್ಟೆನ್ಸಿ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್' | 'N.R. COLONY BANGALORE - 19. 560 019., BANGALORE, Karnataka, #70'
+[116633/1081162 India src2 p=None pown=None ntrue=5 npred=3 tp=3]
+   S: 'Shakti Investments Limited' | 'Plot No.83, Electronics City, Bangalore South ., Karnataka'
+   T: 'ಶಕ್ತಿ ಇನ್ವೆಸ್ಟ್\u200cಮೆಂಟ್ಸ್ ಲಿಮಿಟೆಡ್' | 'BANGALORE SOUTH ., PLOT NO.083, Karnataka, BANGALORE SOUTH .'
+[25853/1182432 US src2 p=None pown=None ntrue=6 npred=5 tp=5]
+   S: 'Valley Project' | '4332 Meredith Avenue, Omaha, NE'
+   T: 'Valley Prómte' | '433 MEREDITH AVENUE, OMAHAA CITY, NE'
+[102794/1377719 India src2 p=None pown=None ntrue=4 npred=3 tp=3]
+   S: 'Universal Ventures Private Limited' | 'Tamil Nadu, Ga & Gb, No.11, Chennai, Fourth Main Road Ext Kotturpuram, Riviera Park'
+   T: 'யுனிவர்சல் வென்ச்சர்ஸ் பிரைவேட் லிமிடெட்' | 'BLOCK C-779. RIVIERA PARK, FOURTH MAIN ROAD EXT KOTTURPURAM, CHENNAI, Tamil Nadu'
+[16611/1813630 India src2 p=None pown=None ntrue=2 npred=1 tp=1]
+   S: 'Design Switchgear Pvt Ltd' | '305 Shrusti Residency, Sector 18, Navi Mumbai, Khalapur, Raigarh(Mh), Maharashtra'
+   T: 'DESIGN SGWITCGEAR PVT LTD' | ''
+[79871/2093909 India src2 p=None pown=None ntrue=3 npred=1 tp=1]
+   S: 'Gold Logistics Private Limited' | 'Krishna Industrial Complex, No-5, Uttarahalli Hobli B-61, Subramanyapura, Bangalore, Karnataka'
+   T: 'ಗೋಲ್ಡ್ ಲಾಜಿಸ್ಟಿಕ್ಸ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್' | 'Karnataka, KRISHNA INDUSTRIAL COMPLEX, BANGALORE'
+[60089/2174533 US src2 p=None pown=None ntrue=5 npred=4 tp=4]
+   S: 'Express Agricultural Holdings' | '12244 Jonathan View Lane, Draper City (sl Co), UT'
+   T: 'Express Agiriclutuila Holdings' | 'Jonathan View Ln, DRAER, UT'
+[11514/2485169 US src2 p=None pown=None ntrue=5 npred=3 tp=3]
+   S: 'National Products Enterprises' | '709 Lincoln Street, Topeka, KS'
+   T: 'National Products LLC' | 'LINCOLN ST, TOPEKA, KS'
+[94909/2674860 US src2 p=None pown=None ntrue=4 npred=3 tp=3]
+   S: 'Physical Therapy Atlantic Physicians PLLC' | '427 Red Star Road, Oak Hill, WV'
+   T: 'Physical Therapy Atlantic Phyicdcns PLLC' | 'RED STAR ROAD, <NULL>, OAK HILL, WV'
+[132601/2758699 India src2 p=None pown=None ntrue=6 npred=2 tp=2]
+   S: 'Guru Producer Pvt Ltd' | 'L-2/81, Second Floor, New Mahavir Nagar, New Delhi, West Delhi, Delhi'
+   T: 'गुरु प्रोड्यूसर प्रा. लि.' | 'L-2/81, NEW DELHI, WEST DELHI, दिल्ली'
+[104656/3018880 US src2 p=None pown=None ntrue=5 npred=3 tp=3]
+   S: 'Dermatology Bright Health LLC' | '24 NW 4 St, Le Mars, IA'
+   T: 'LLC Dermatology Bright Hebrth' | '24. NORTHWEST 4 ST, LEM ARS, IA'
+[30893/3147932 US src2 p=None pown=None ntrue=6 npred=4 tp=4]
+   S: 'Elliott Biopharmaceuticals, LLC' | '321 King Street, NC, Ayden'
+   T: 'Elliott  LLC Services' | ''
+[48939/3505211 US src2 p=None pown=None ntrue=5 npred=3 tp=3]
+   S: 'Lower Montessori School' | 'Whitestown, NY, 18 Chateau Drive'
+   T: 'lowermontessorischool.com' | '1 CHATEAU DRIVE, WHITESTOWN, NY'
+[28921/3577793 India src2 p=None pown=None ntrue=4 npred=1 tp=1]
+   S: 'Gujarat Hospitality Pvt Ltd' | 'C/O Lt. Ramdas Shamshabad, Azamgarh, Uttar Pradesh'
+   T: 'गुजरात हॉस्पिटैलिटी प्रा. लि.' | 'C/O LT. RAMDAS SHAMSHABAD, AZAMGARH, Uttar Pradesh'
+[146591/3659930 US src2 p=None pown=None ntrue=5 npred=3 tp=3]
+   S: 'Edwards Frontier Coca Inc' | '980 Cleveland Avenue, Unit 418, Columbus, OH'
+   T: 'Edwards Fdeotfr Coca-Inc' | '98 CLEVELAND AVE, COLUMBUS, OH'
+[83922/4047637 US src2 p=None pown=None ntrue=5 npred=4 tp=4]
+   S: 'UO Ace Solutions' | '265 Wildwood Road, Lenoir, NC'
+   T: 'U0 Ace Solutions Inc.' | '65 WILDWOOD RD, LENORI, NC'
+[126661/4902091 US src2 p=None pown=None ntrue=4 npred=2 tp=2]
+   S: 'Campbell and Martin Inc.' | '11002 Maple Rock Drive, Humble, TX'
+   T: 'Campbell and-Martin Inc. Service' | '1100 MAPLE ROCK DR, HUMBLE, TX'
+[110541/5065698 US src3 p=None pown=None ntrue=7 npred=5 tp=5]
+   S: 'Continental Family Practice' | '102 Elkmont Drive, VA, Elkton Town'
+   T: 'Continental  Family' | 'Elkmont Dr, Elkton Town, Virginia'
+[41511/5104571 US src3 p=None pown=None ntrue=3 npred=2 tp=2]
+   S: "Martin's Signature Wholesale, Inc" | '121 High Point Road, Deer Lodge, TN'
+   T: "Martin's Signature" | 'High Point Rd, DEER Lodgec ITY, Tennessee'
+[115765/6193333 US src3 p=None pown=None ntrue=2 npred=1 tp=1]
+   S: 'Molina Alussa' | '4207 4th Avenue, San Bernardino, CA'
+   T: 'Molina Sérvices' | ''
+[99498/6215340 US src3 p=None pown=None ntrue=5 npred=3 tp=3]
+   S: 'Cinder Foods Inc' | 'Hanover Park, IL, 721 Haddam Way'
+   T: 'cinderfoods.com' | '719 Haddam Way, Illinois, Hanover Park'
+[41164/6250237 US src3 p=None pown=None ntrue=7 npred=6 tp=6]
+   S: 'Collins Classic Oyj LLC' | '6722 S Jordan Parkway, South Jordan, UT'
+   T: 'Collins Oyj  LLC Services' | 'Utah, SOUT Jordan, S Jordan Parkway'
+[125229/6769058 US src3 p=None pown=None ntrue=6 npred=4 tp=4]
+   S: 'Cozy Cleaning Service' | '9174 38th Avenue, Rolette, ND'
+   T: 'Cozy Cleaning Service Corporation Enterprises' | ''
+[65668/7364065 US src3 p=None pown=None ntrue=3 npred=2 tp=2]
+   S: 'Solstice' | '12 Birch Street, Anaconda-deer Lodge, MT'
+   T: 'Sólstice Enterprises' | ''
+[143449/7374539 US src3 p=None pown=None ntrue=2 npred=1 tp=1]
+   S: 'Dental Allied Center' | '348 13th, Paris, TX'
+   T: 'Dental-Allied Centre' | ''
+[72296/7509543 US src3 p=None pown=None ntrue=6 npred=5 tp=5]
+   S: 'Smith Frontier Information' | '3650 Ridge Road, Unit LOT 98, Gary, IN'
+   T: 'Smith Frontier Services' | ''
+[129034/7872640 US src3 p=None pown=None ntrue=6 npred=5 tp=5]
+   S: "Martina's Auto Repair Corp" | '2103 Arthur Street, Wichita Falls, TX'
+   T: 'Martinasautorepair.Com' | 'null, 2101 Arthur Street, Wichita Falls, Texas'
+[75837/7940082 US src3 p=None pown=None ntrue=5 npred=3 tp=3]
+   S: 'Quality Better Machines LLC' | 'IL, Rockford, 307 Oakley Avenue'
+   T: 'Quality Better' | '07 Oakley Avenue, Rockford, Illinois'
+[138483/8000275 India src3 p=None pown=None ntrue=4 npred=3 tp=3]
+   S: 'Jay Estate Limited' | 'No.20/2, Sundar Nagar, Poonamallee, Chennai, Tamil Nadu'
+   T: 'ஜெய் எஸ்டேட் லிமிடெட்' | 'No.20/2, Chennai, TN'
+[135248/8426563 India src3 p=None pown=None ntrue=3 npred=1 tp=1]
+   S: 'South Impex Private Limited' | 'No.3/1, Gangadhar Chetty Road, Bangalore, Karnataka'
+   T: 'southimpex.com' | 'Bangalore, KA, No./1, Bangalore, Gangadhar Chetty Road'
+[83286/8471149 India src3 p=None pown=None ntrue=3 npred=2 tp=2]
+   S: 'Ganga Group of Companies' | '604- B, Crystal Plaza, 6Th Floor M R No-2, Link Road, Opposite Infenity Mall Andher, I West, Mumbai, Mumbai City, Maharashtra'
+   T: 'Ganga Group of Partners' | 'Hn 354 604- B, Greater Bombay, Mumbai City, MH'
+[25990/8568595 US src3 p=None pown=None ntrue=4 npred=2 tp=2]
+   S: 'Cardiology Legacy Care Associates' | '10219 River Road, Potomac, MD'
+   T: 'Cardiology Legacy Legacy Care' | 'River Road, null, Potomac, Maryland'
+[37538/8717127 US src3 p=None pown=None ntrue=5 npred=2 tp=2]
+   S: 'Vior' | '15 Park Circle, Brookfield, VT'
+   T: 'Vior.Com' | '15 Park Cir, Brookfield, Vermont'
+[88984/8741804 US src3 p=None pown=None ntrue=4 npred=1 tp=1]
+   S: 'Pediatric Dental Specialists Inc.' | 'OR, 242 14th Avenue, Eugene, Unit Apartment 3'
+   T: 'Pediatric Dental  Specialists' | '14th Avenue, Unit Apartment 3, Euggene, Oregon'
+[125513/9139880 India src3 p=None pown=None ntrue=6 npred=5 tp=5]
+   S: 'Bangalore Distribution LLP' | '# 677, 1St Floor, 27Th Main, 13Th Cross, Hsr Layout 1St Sector, Bangalore, Karnataka'
+   T: 'Evozeph' | '#677, 1St Floor, 27Th Main, 13Th Cross, Hsr Layout 1St Sector, Bangalore, KA'
+[92072/9946853 India src3 p=None pown=None ntrue=5 npred=4 tp=4]
+   S: 'Seven Logistics Private Limited' | 'Maharashtra, Sarvadnya Apartment, F No 3P, No 4 Borkute Lay, Near, Nagpur'
+   T: 'सेवन लॉजिस्टिक्स प्राइवेट लिमिटेड' | 'Sarvadnay Apartment, Nagpur, Nagpur Kingsway, महाराष्ट्र'
+[46201/9950295 India src3 p=None pown=None ntrue=5 npred=3 tp=3]
+   S: 'Dk & Sons Private Limited' | 'No.63, Katha No.6, Agara, Tataguni Post, Kengeri, Bangalore South, Bangalore, Karnataka'
+   T: 'Pyraciravio' | 'No 063, Bangalore South, Bangalore, KA'
