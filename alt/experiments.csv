@@ -7,3 +7,5 @@ date,experiment,fold4_macro,US,India,note
 2026-09-26,test rebuild parity vs uploaded v10,,,,1732544/1732544 identical rows; 5644655/5644656 pairs
 2026-09-26,France same-number word-swap diag,,,,train swap pairs 99% true; France swap share 11% (US 7% India 19%): not a French decoy signal
 2026-09-26,upload A: v10 + owner layer + shift1.0 (test),,,,validator PASS --check-ids; 5.1-6.9% rows changed vs v10; 5740920 pairs vs 5644656
+2026-09-26,stress-v2 India test density (f=1 hide=0.19),0.96737,,0.96737,v10 shift0.6 drop 0.0037; best owner shift0.45 0.96756; France implied ~0.90
+2026-09-26,upload A2: owner + shift US=1.0 India=0.45 + France rows = v10,,,,validator PASS; France 0% changed; US 5.1% India 2.0% rows changed; expected LB +~0.0005
