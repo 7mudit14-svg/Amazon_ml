@@ -14,3 +14,5 @@ date,experiment,fold4_macro,US,India,note
 2026-09-27,upload B: A2 + France self-trained stage2 (dom flag; pseudo pos p>=0.98&num agree, neg p<=0.02),,,,validator PASS; France number agreement 0.9896->0.9969; matches/S1 3.269->3.320
 2026-09-27,LOCO variants (dom flag; 1 round),,,0.9462,pseudo weight 2 = 0.9462 (best; ref 0.9447); consistency filter 0.9461 @shift0.3; top-5/S1 0.9442; hi.99 0.9441; no num filter 0.9445; combos no better
 2026-09-27,upload C: A2 + France self-trained stage2 (pseudo weight 2; 35 parts),,,,validator PASS; France matches/S1 3.328; number agreement 0.9965
+2026-09-27,sibling/cluster rescue of unclaimed blank targets (owner of confident same-name siblings),0.97605,,,best -0.00009 (precision 0.58-0.64); dropped
+2026-09-27,hard caps S2<=5 / S3<=6 per S1,,,,only 36 S1s exceed in v10 predictions: negligible
