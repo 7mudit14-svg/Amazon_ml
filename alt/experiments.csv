@@ -2,3 +2,4 @@ date,experiment,fold4_macro,US,India,note
 2026-09-26,v10 parity (stored scores_c, dta_own shift0.6),0.97614,0.97956,0.97101,exact match to meta
 2026-09-26,v10 dta_own shift1.0,0.97656,0.97999,0.97141,dev-best shift for v10
 2026-09-26,owner-model dta shift1.0,0.97683,0.98016,0.97185,+0.0003 vs v10 same shift
+2026-09-26,rescue unclaimed blank targets by unique exact name,0.97598,,,-0.00016 (precision 0.48): dropped
