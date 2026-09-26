@@ -49,11 +49,11 @@ adaptation.
   - exact expected-F0.5 prefix selection (Poisson-binomial);
   - odds shift per country (US 1.0, India 0.45, France 0.6), chosen on a test-density simulation.
 - **France (unseen):** stage 2 refit with pseudo-labels from our own confident test predictions
-  (p ≥ 0.98 with agreeing house number / p ≤ 0.02) and a domain flag. Validated leave-one-country-out
+  (p ≥ 0.98 with agreeing house number / p ≤ 0.02) and a domain flag. Pseudo rows weighted 2x. Validated leave-one-country-out
   (US labels only, India unseen): +0.0039 F0.5 on India's held-out fold.
 
 ## 5. Results & Error Analysis
-- Held-out fold (S1-disjoint) macro F0.5: 0.9768 (US 0.9802, India 0.9719).
+- Held-out fold (S1-disjoint) macro F0.5: 0.9768 (US 0.9802, India 0.9719). Leave-one-country-out self-training check: +0.0054 on the unseen country (0.9408 -> 0.9462).
 - Loss is dominated by true pairs never retrieved (blank-address and website-only names), then by
   blank-address ties between chain branches (not decidable), then by rejected noisy copies.
 - False matches are mostly same-street decoys with the house number kept.
