@@ -3,3 +3,4 @@ date,experiment,fold4_macro,US,India,note
 2026-09-26,v10 dta_own shift1.0,0.97656,0.97999,0.97141,dev-best shift for v10
 2026-09-26,owner-model dta shift1.0,0.97683,0.98016,0.97185,+0.0003 vs v10 same shift
 2026-09-26,rescue unclaimed blank targets by unique exact name,0.97598,,,-0.00016 (precision 0.48): dropped
+2026-09-26,stress-v2 US test density (f=0.62 hide=0.19) shift1.0,0.97648,0.97648,,drop 0.0035 vs local 0.97995; shift 0.6 drop 0.0040 -> density is NOT the 0.015 offset; France implied ~0.90
