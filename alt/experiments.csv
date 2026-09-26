@@ -17,3 +17,4 @@ date,experiment,fold4_macro,US,India,note
 2026-09-27,sibling/cluster rescue of unclaimed blank targets (owner of confident same-name siblings),0.97605,,,best -0.00009 (precision 0.58-0.64); dropped
 2026-09-27,hard caps S2<=5 / S3<=6 per S1,,,,only 36 S1s exceed in v10 predictions: negligible
 2026-09-27,fold-4 error analysis (15k S1 sample),0.97617,,,loss: 49% not retrieved / 41% rejected in-candidate / 9.5% false; best new stage-2 feature rr_gap logloss -1.3% -> macro within noise; est +0.0001-0.0003
+2026-09-27,US stress: fresh single stage2 (dev folds 0-3; 15 parts) vs v10 cross-fit halves,0.97702,0.97702,,v10 0.97640 @1.0 / 0.97546 @0.6; fresh 0.97702 / 0.97700; +pseudo (in-domain) 0.97454 -> pseudo hurts in labelled countries
