@@ -4,3 +4,5 @@ date,experiment,fold4_macro,US,India,note
 2026-09-26,owner-model dta shift1.0,0.97683,0.98016,0.97185,+0.0003 vs v10 same shift
 2026-09-26,rescue unclaimed blank targets by unique exact name,0.97598,,,-0.00016 (precision 0.48): dropped
 2026-09-26,stress-v2 US test density (f=0.62 hide=0.19) shift1.0,0.97648,0.97648,,drop 0.0035 vs local 0.97995; shift 0.6 drop 0.0040 -> density is NOT the 0.015 offset; France implied ~0.90
+2026-09-26,test rebuild parity vs uploaded v10,,,,1732544/1732544 identical rows; 5644655/5644656 pairs
+2026-09-26,France same-number word-swap diag,,,,train swap pairs 99% true; France swap share 11% (US 7% India 19%): not a French decoy signal
