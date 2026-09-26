@@ -14,9 +14,9 @@ from decide import dta_select, prior_shift, single_owner
 from score import per_entity
 
 t0 = time.time(); T = f"{WORK}/train"
-parts = sorted(glob.glob(f"{T}/feat_d/part_*.parquet"))
+parts = sorted(glob.glob(f"{T}/feat_d/part_*.parquet"))[:15]
 cty = pl.read_parquet(f"{T}/s1.parquet", columns=["s1", "country"])
-keep_neg = (pl.struct("s1", "t").hash(seed=5) % 100) < 20
+keep_neg = (pl.struct("s1", "t").hash(seed=5) % 100) < 10
 df = pl.concat([pl.read_parquet(p).filter((pl.col("label") == 1) | keep_neg | (pl.col("fold") == 4)) for p in parts]).join(cty, on="s1")
 print(f"rows {df.height:,} ({time.time()-t0:.0f}s)", flush=True)
 us_tr = df.filter((pl.col("country") == "US") & (pl.col("fold") != 4))
@@ -25,7 +25,7 @@ in_pool = df.filter((pl.col("country") == "India") & (pl.col("fold") != 4))
 in_ev = df.filter((pl.col("country") == "India") & (pl.col("fold") == 4))
 gt = pl.read_parquet(f"{T}/gt.parquet").join(in_ev.select("s1").unique(), on="s1", how="semi")
 
-def w(d): return np.where(d["label"].to_numpy() == 1, 1.0, 5.0)
+def w(d): return np.where(d["label"].to_numpy() == 1, 1.0, 10.0)
 
 def fit(tr, feats, weights):
     dtr = lgb.Dataset(tr.select(feats).to_numpy(), tr["label"].to_numpy(), weight=weights, feature_name=feats)

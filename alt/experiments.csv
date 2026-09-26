@@ -10,3 +10,4 @@ date,experiment,fold4_macro,US,India,note
 2026-09-26,stress-v2 India test density (f=1 hide=0.19),0.96737,,0.96737,v10 shift0.6 drop 0.0037; best owner shift0.45 0.96756; France implied ~0.90
 2026-09-26,upload A2: owner + shift US=1.0 India=0.45 + France rows = v10,,,,validator PASS; France 0% changed; US 5.1% India 2.0% rows changed; expected LB +~0.0005
 2026-09-26,char3gram name knn channel (20k fold-4 sample),,,,recovers 31% US / 9% India of v10 misses; +23 pairs/S1; LB ceiling ~+0.002
+2026-09-26,LOCO self-training (US labels -> India unseen; 15 parts),,,0.9447,B0 0.9408; B1 pseudo 0.9427; B2 +domain flag 0.9440; best hi0.98/lo0.02/w1/1 round 0.9447 (+0.0039); 2-3 rounds worse
