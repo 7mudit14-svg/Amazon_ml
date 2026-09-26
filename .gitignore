@@ -16,3 +16,4 @@ env/
 *.zip
 *.tar.gz
 alt/output/
+alt/analysis/*.parquet
